@@ -1,0 +1,11 @@
+User ID,Login Time,Input Destination,End Destination,Device Type,Browser Type,Previous Login Success,Failed Attempts,Account Age,Session Duration,Typical Login Time,IP Reputation,Geo-location Change,Unusual Activity,Malicious
+12345,08:30:00,192.168.1.1,service_A,Desktop,Chrome,Yes,0,365,30,Yes,High,No,No,0
+67890,22:15:00,172.16.0.2,service_B,Mobile,Firefox,No,3,180,10,No,Low,Yes,Yes,1
+54321,12:00:00,192.168.1.2,service_A,Tablet,Safari,Yes,1,90,15,Yes,Medium,No,No,0
+98765,03:45:00,172.16.0.3,service_C,Desktop,Edge,No,2,30,25,No,High,Yes,No,1
+13579,19:30:00,10.0.0.1,service_B,Mobile,Chrome,Yes,0,720,20,Yes,Low,No,Yes,0
+24680,14:15:00,192.168.1.4,service_A,Desktop,Firefox,No,5,60,5,No,Medium,Yes,Yes,1
+11223,17:00:00,10.0.0.2,service_C,Tablet,Chrome,Yes,0,400,35,Yes,High,No,No,0
+33445,21:10:00,192.168.1.5,service_B,Desktop,Safari,Yes,2,120,40,Yes,Low,Yes,Yes,1
+55667,07:50:00,172.16.0.4,service_A,Mobile,Edge,No,1,240,15,No,Medium,No,No,0
+77889,02:20:00,10.0.0.3,service_C,Desktop,Chrome,Yes,3,500,10,No,High,Yes,Yes,1
