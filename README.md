@@ -25,10 +25,12 @@ This project implements an advanced logistic regression model to predict the lik
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/your-repo.git
+   
 Navigate to the project directory:
 bash
 Copy code
 cd your-repo
+
 Create a virtual environment:
 bash
 Copy code
@@ -44,10 +46,11 @@ Copy code
 source venv/bin/activate
 Install the required packages:
 bash
-Copy code
+
 pip install -r requirements.txt
 Usage
-Ensure your dataset is in CSV format and named login_data.csv. The dataset should have the following columns:
+
+
 
 User ID
 Login Time
